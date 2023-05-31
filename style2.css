@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@600&display=swap');
+
+.grey-big-box {
+    background-color: #36393e;
+    border-radius: 7px;
+    align-self: center;
+    width: 785px;
+    height: 450px;
+    /* The next four lines will help in making the site responsive. Btw today's date is 10 April 2023. Time: 1002 hrs. */
+    position: absolute;
+    top: 20%;
+    left: 50%; 
+    transform: translateX(-50%);
+    font-family: 'Cabin', sans-serif;
+}
+
+body{
+    background-image: url("./Travel\ Logo\ \(1\).png");
+}
+
+.go-back {
+    color: aliceblue;
+    margin-left: 30px;
+    padding-top: 20px;
+}
+
+.welcome-back-heading {
+    color: aliceblue;
+    margin-left: 160px;
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+
+.we-excited-text {
+    color: rgba(240, 248, 255, 0.495);
+    margin-left: 135px;
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.entering-email-or-phone-number{
+    color: aliceblue;
+    font-size: 12px;
+    margin-left: 30px; 
+    margin-bottom: 5px; 
+    
+}
+
+.red-ash{
+    color: red;
+}
+
+.input-email-or-phone-number{
+    width: 420px;
+    height: 40px;
+    background-color: #ffffff;
+    padding: 0%;
+    border: 0cm;
+    margin-left: 30px;
+}
+
+ .entering-password{ 
+    color: aliceblue;
+    margin-left: 30px;
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+
+.input-password{
+    width: 420px;
+    height: 40px;
+    background-color: #ffffff;
+    padding: 0%;
+    border: 0cm;
+    margin-left: 30px;
+}
+
+.forgot-password{
+    margin-left: 30px;
+    margin-top: 7px;
+}
+
+.login-button{
+    width: 430px;
+    height: 45px;
+    margin-left: 30px;
+    background-color: #5865f2;
+    padding: 0%;
+    border: 0cm;
+    margin-top: 7px;
+}
+
+.need-an-account{
+    margin-left: 30px;
+    color: rgba(240, 248, 255, 0.495);
+    font-size: 11px;
+}
+
+.right-section{
+    color: aliceblue;
+    margin-top: -340px;
+    margin-left: 530px;
+}
+
+.login-with-qr-code{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.scan-to-login-text{
+    font-size: 17px;
+    color: rgba(240, 248, 255, 0.495);
+    margin-left: -15px;
+    margin-top: 11px;
+}
+
+.image{
+    width: 170px;
+    height: 170px;
+    border-radius: 5px;
+    margin-left: 20px;
+}
